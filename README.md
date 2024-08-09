@@ -5,7 +5,10 @@ A machine learning project to predict stock price direction (Buy/Sell) using mod
 # Tools and Technologies Used : 
 
   Python: The primary programming language used for data processing, model building, and analysis.
+  
   Scikit-Learn: For implementing machine learning models like Support Vector Classifier (SVC), Random Forest, and Logistic Regression.
+  
   Jupyter Notebook: An interactive environment for writing code, running codes, and visualizing results.
+  
   Yahoo Finance: For sourcing historical stock price data.
   
